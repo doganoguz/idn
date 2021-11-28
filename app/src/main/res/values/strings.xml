@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Idn Smm</string>
+    <string name="webiview_url">https://smmm.idn.com.tr/</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="image_content">image</string>
+
+    <string name="please_wait">Lütfen Bekleyin..</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+
+
+    <!--<about us strings>-->
+    <string name="about_us_developer">Geliştirici</string>
+    <string name="about_us_developer_name">Idn Software Developer</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">teknik@idn.com.tr</string>
+    <string name="about_us_contact">İletişim</string>
+    <string name="about_us_contact_text">"0(850) 346 29 58</string>
+    <string name="about_us_about">Hakkımızda</string>
+    <string name="about">Hakkımızda</string>
+    <string name="about_description">Bizler yıllardır sosyal medyaya hakim olup sizleri daha iyi seviyelere taşıyabilmek için çalışmaktayız. Yılların getirdiği tecrübe ile güvenli, hızlı ve kaliteli şekilde hizmet vermekteyiz.</string>
+    <string name="sure_quit">Çıkış Yapmak İstediğinize Emin Misiniz ?</string>
+    <string name="exit">Çıkış</string>
+    <string name="cancel">İptal</string>
+    <!--<about us strings>-->
+
+    <string name="yes">Evet</string>
+    <string name="download_file">Dosya Adı :</string>
+    <string name="download_title">İndirmek İster Misiniz ?</string>
+</resources>

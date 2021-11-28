@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/instos"
+            android:icon="@drawable/insto"
+            android:title="Instagram" />
+        <item
+            android:id="@+id/insta1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Instagram Takipçi (Organik)"
+            android:visible="false" />
+        <item
+            android:id="@+id/insta2"
+            android:title="Instagram Takipçi (Anlık)"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+        <item
+            android:id="@+id/insta3"
+            android:title="Instagram Takipçi (Çekiliş)"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+        <item
+            android:id="@+id/insta4"
+            android:title="Instagram Beğeni"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+        <item
+            android:id="@+id/insta5"
+            android:title="Instagram Oto Beğeni"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/insta6"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Instagram Yorum"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/insta7"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false"
+            android:title="Instagram Video Görüntülenme" />
+
+        <item
+            android:id="@+id/insta8"
+            android:visible="false"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Instagram Story İzlenme" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/youmenu"
+            android:icon="@drawable/youtube"
+            android:title="Youtube" />
+        <item
+            android:id="@+id/youtube1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Youtube Abone"
+            android:visible="false" />
+        <item
+            android:id="@+id/youtube2"
+            android:title="Youtube İzlenme"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tiktokmenu"
+            android:icon="@drawable/tik"
+            android:title="Tiktok" />
+        <item
+            android:id="@+id/tiktok1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="TikTok İzlenme"
+            android:visible="false" />
+        <item
+            android:id="@+id/tiktok2"
+            android:title="TikTok Takipçi"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/twittermenu"
+            android:icon="@drawable/twitter"
+            android:title="Twitter" />
+        <item
+            android:id="@+id/twitter1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Twitter Takipçi"
+            android:visible="false" />
+        <item
+            android:id="@+id/twitter2"
+            android:title="Twitter Fav"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+        <item
+            android:id="@+id/twitter3"
+            android:title="Twitter Retweet"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+        <item
+            android:id="@+id/twitter4"
+            android:title="Twitter Trend Topic"
+            android:icon="@drawable/ic_sub_items"
+            android:visible="false" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/twitchmenu"
+            android:icon="@drawable/twitch"
+            android:title="Twitch" />
+        <item
+            android:id="@+id/twitch1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Twitch İzlenme"
+            android:visible="false" />
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/facebookmenu"
+            android:icon="@drawable/facebook"
+            android:title="Facebook " />
+        <item
+            android:id="@+id/face1"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Facebook Canlı Yayın İzlenme"
+            android:visible="false" />
+        <item
+            android:id="@+id/face2"
+            android:icon="@drawable/ic_sub_items"
+            android:title="Facebook Sayfa Beğeni"
+            android:visible="false" />
+
+
+    </group>
+
+
+
+
+    <item android:title="Diğer">
+        <menu>
+            <group android:checkableBehavior="single">
+
+
+            <item
+                android:id="@+id/shareapp"
+                android:icon="@drawable/ic_share"
+                android:title="Paylaş" />
+
+            <item
+                android:id="@+id/rateapp"
+                android:icon="@drawable/ic_rate"
+                android:title="Değerlendir" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_account"
+                android:title="Hakkımızda" />
+
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Çıkış Yap" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075564646554",
+    "project_id": "mynm-c7e2d",
+    "storage_bucket": "mynm-c7e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075564646554:android:301b4427a7b24098d38f23",
+        "android_client_info": {
+          "package_name": "com.myn.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075564646554-5ggosd59vhv50bcr4p8l914qh188cav8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RH4i51TY5SWq8BGEe5QoZKk_4jIGFYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075564646554-5ggosd59vhv50bcr4p8l914qh188cav8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
