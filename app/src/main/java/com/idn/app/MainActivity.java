@@ -1,5 +1,7 @@
 package com.idn.app;
 
+/*Developer by DoganOguz */
+
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
