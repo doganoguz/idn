@@ -1,2 +1,1 @@
-# Idn Software - Android App Webview
-
+# Idn Software - App
